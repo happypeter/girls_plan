@@ -8,6 +8,7 @@
 后面应该以这个思路来整理出学习资料出来。视频或者书都可以，也可以不是我自己的，但是主体上都应该是中文的。
 
 - NO.1 http://haoqicat.com/happypeter/html7 类似于这样的一门课，课程本身是动手的，但是推荐一些课后内容是理论的
+  - http://www.codecademy.com/zh 绝对优秀
 - NO.2 js 入门。这个可以放到 jekyll 之后讲也行。
 - NO.3 github/jekyll 的使用，不用命令行的。
 - 这样之后再引入后台，Linux bash 这些内容就可以登场了。
